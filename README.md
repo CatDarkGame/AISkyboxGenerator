@@ -18,6 +18,6 @@ Unity 2022.2.5f1
 
 
 
-## Refrenced
+## Reference
 - https://github.com/keijiro/AICommand
 - https://github.com/julienkay/genesis/blob/master/readme.md
