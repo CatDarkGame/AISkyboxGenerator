@@ -9,7 +9,7 @@ Unity 2022.2.5f1
 
 
 ## Usage
-- You need to get the API from [Blockadelabs](https://www.blockadelabs.com/)
+- You need to get the API from [Blockadelabs](https://www.blockadelabs.com/) (Wait for an API email)
 - Enter your API key in Unity Engine -> Player Settings>AI Skybox Generator
 - Open Tool in Unity Engine ->  AI Tools/AI Skybox Generator
 
